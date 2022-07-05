@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60Ba963852DEBd5E26b71ab481a3C66791cf9cB5",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x60ba963852debd5e26b71ab481a3c66791cf9cb5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Cats Copy",
+  "SYMBOL": "CCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-cats-copy",
+  "SHOW_BACKGROUND": true
+}
